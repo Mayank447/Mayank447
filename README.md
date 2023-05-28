@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mayank447
 - 👀 I’m interested in Algorithms and application of Computer Science in Interdisciplinary fields.
-- 🌱 I’m currently pursuing Computer Science in IIIT Hyderabad.
+- 🌱 I’m currently pursuing Computer Science @ IIIT Hyderabad.
 - 💞️ I’m looking to collaborate on projects related to Algorithms, Core Computer Science and use of ML, Data Science in Pure Science and other fields.
 - 📫 To message me send an email at mayank.goel447@gmail.com
 
