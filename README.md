@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mayank Goel.
 - 🌱 I’m currently pursuing Computer Science and Computational Natural Science @ IIIT Hyderabad.
 - 👀 I’m interested in Machine Learning, Quantum Computing and application of Computer Science in Interdisciplinary fields.
-- 💞️ I’m looking to collaborate on projects related to Algorithms, Core Computer Science and use of ML, Data Science in Pure Science and other fields.
+- 💞️ I’m open to collaborate on projects related to Algorithms, Core Computer Science and use of ML, Data Science in Pure Science and other fields.
 - 📫 You can contact me through email at mayank.goel447@gmail.com
 
 <!---
